@@ -1,5 +1,5 @@
 # 💫 About Me:
-☺Sou iniciante<br>☺Faço engenharia de software<br>☺Estou aprendendo a linguagem C<br>☺Pretendo aprender Java<br>☺Disposto a colaborar
+☺Sou iniciante<br>☺Faço engenharia de software<br>☺Estou aprendendo a linguagem Python<br>☺Pretendo aprender Cybersecurity<br>☺Disposto a colaborar
 
 
 ## 🌐 Socials:
