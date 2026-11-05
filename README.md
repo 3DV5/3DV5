@@ -30,7 +30,7 @@ Aqui você encontrará meus projetos acadêmicos e práticas em redes e ciberseg
 
 <div align="left">
   <h4>📡 Outras habilidades e interesses</h4>
-  <p>✅ Segmentação de redes com VLAN • ✅ Kdenlive • ✅ Experiência em MikroTik e redes • 🔐 Estudando cibersegurança com foco em defesa ativa e monitoramento</p>
+  <p>✅ Segmentação de redes com VLAN • ✅ Kdenlive • ✅ Experiência em MikroTik e redes • </p>
 </div>
 
 ###
